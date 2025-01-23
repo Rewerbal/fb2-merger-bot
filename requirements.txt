@@ -2,3 +2,4 @@ python-telegram-bot==20.3
 aiofiles==23.2.1
 lxml==4.9.4
 Flask==2.2.5
+pyTelegramBotAPI
